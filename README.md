@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hey, I'm Varnika Prasad ✨</h1>
-<h3 align="center">Backend • Cloud • AI‑Native Engineer | Distributed Systems | Multi‑Cloud | PM/PgM Aspirant</h3>
+<h3 align="center">Backend • Cloud • AI‑Native Engineer | Distributed Systems | Multi‑Cloud | </h3>
 
 <p align="center">
 Building systems that scale, ship, and make life easier for real users.
