@@ -21,7 +21,7 @@ I love solving hard engineering problems, owning systems end‑to‑end, and bui
 - 💬 Ask me about: Distributed systems, microservices, cloud infra, DevOps, AI workflows, or backend performance tuning.
 - 📫 How to reach me: varnikaprasad310@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/varnika-prasad
-- 🌐 Portfolio: https://varnika-prasad-portfolio.vercel.app/
+- 🌐 Portfolio: https://www.datascienceportfol.io/varnika_prasad
 - 📚 Published Paper: https://www.ijrar.org/viewfull.php?p_id=IJRAR19W1578
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love building systems that scale AND writing stories that don’t.
